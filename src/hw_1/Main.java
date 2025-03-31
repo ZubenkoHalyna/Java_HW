@@ -14,20 +14,6 @@ import java.util.List;
 //– створити клас, який би описував Собаку
 //– створити клас, який би описував Автомобіль
 
-//{
-//        "userId": 1,
-//        "id": 1,
-//        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-//        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-//}
-
-//{
-//        "postId": 1,
-//        "id": 1,
-//        "name": "id labore ex et quam laborum",
-//        "email": "Eliseo@gardner.biz",
-//        "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-//}
 public class Main {
     public static void main(String[] args) {
         Post[] posts = new Post[5];
